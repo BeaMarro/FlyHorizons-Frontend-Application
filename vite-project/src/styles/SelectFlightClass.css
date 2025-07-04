@@ -1,0 +1,16 @@
+.flight-class-card {
+    margin-top: 20px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 300px;
+    color: white;
+    width: 300px;
+}
+
+.flight-class-info {
+    background-color: #2EBFA5;
+    width: auto;
+    padding: 5px;
+    border-radius: 15px;
+}

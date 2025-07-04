@@ -1,0 +1,6 @@
+.transparent-card {
+    opacity: 0.8;
+    border: 1px solid white;
+    height: 650px;
+    width: 650px;
+}

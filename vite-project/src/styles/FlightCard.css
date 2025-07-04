@@ -1,0 +1,10 @@
+.mini-heading {
+    color: black !important;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.text-container {
+    width: 250px;
+    height: 120px;
+}
